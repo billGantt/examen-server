@@ -1,5 +1,5 @@
 server:
- port: 9999
+ port: 8585
 
 
 eureka:
@@ -24,11 +24,11 @@ management:
      show-details: "ALWAYS"
 
 
-fastfood-registry-server-dev.yml 
+examen-identification-server-dev.yml 
 
 
 server:
- port: 9999
+ port: 8585
 
 
 eureka:
@@ -52,7 +52,7 @@ management:
    health:
      show-details: "ALWAYS"
 
-fastfood-registry-server-test.yml 
+examen-identification-server-test.yml 
 
 
 server:
